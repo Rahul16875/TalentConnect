@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34762675045",
+    "project_id": "talentconnect-45bb3",
+    "storage_bucket": "talentconnect-45bb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34762675045:android:af1591b6a9967425cb078c",
+        "android_client_info": {
+          "package_name": "com.example.talentconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34762675045-6aochpklg8mkn0js0dkgfemmk075efg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Lah2a1FRnU5Gn-nlke7Pnl7sgwpnpuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34762675045-6aochpklg8mkn0js0dkgfemmk075efg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
